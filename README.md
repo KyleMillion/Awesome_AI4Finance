@@ -233,9 +233,10 @@ Key academic papers on AI in finance.
 ### Selected Papers
 
 - "[Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996)." *ICAIF 2020*. The ensemble strategy behind FinRL-Trading.
-- "[FinRL: Deep Reinforcement Learning Framework to Automate Trading in Quantitative Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3955949)." *ICAIF 2021*.
+- "[FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance](https://arxiv.org/abs/2011.09607)." *NeurIPS 2020 Deep RL Workshop*.
 - "[FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning](https://arxiv.org/abs/2211.03107)." *NeurIPS 2022*.
 - "[FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory](https://arxiv.org/abs/2311.13743)." *arXiv*, 2023. Novel memory architecture for LLM trading agents.
+- "[FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)." *arXiv*, 2023. Democratizing financial LLMs with a data-centric approach and accessible fine-tuning.
 - "[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://arxiv.org/abs/2412.20138)." *arXiv*, 2024.
 
 ---
